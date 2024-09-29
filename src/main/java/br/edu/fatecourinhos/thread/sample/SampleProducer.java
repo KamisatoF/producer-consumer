@@ -1,6 +1,6 @@
-package br.edu.fatecourinhos.demo.sample;
+package br.edu.fatecourinhos.thread.sample;
 
-import br.edu.fatecourinhos.demo.concurrent.Producer;
+import br.edu.fatecourinhos.thread.concurrent.Producer;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.config.BeanDefinition;

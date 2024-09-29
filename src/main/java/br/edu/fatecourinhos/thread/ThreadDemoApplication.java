@@ -1,6 +1,6 @@
-package br.edu.fatecourinhos.demo;
+package br.edu.fatecourinhos.thread;
 
-import br.edu.fatecourinhos.demo.sample.SampleCommand;
+import br.edu.fatecourinhos.thread.sample.SampleCommand;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.ExitCodeGenerator;

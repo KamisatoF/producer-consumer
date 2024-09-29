@@ -1,7 +1,7 @@
-package br.edu.fatecourinhos.demo.sample;
+package br.edu.fatecourinhos.thread.sample;
 
-import br.edu.fatecourinhos.demo.concurrent.ProducerConsumerFactory;
-import br.edu.fatecourinhos.demo.concurrent.ProducerConsumerRunner;
+import br.edu.fatecourinhos.thread.concurrent.ProducerConsumerFactory;
+import br.edu.fatecourinhos.thread.concurrent.ProducerConsumerRunner;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

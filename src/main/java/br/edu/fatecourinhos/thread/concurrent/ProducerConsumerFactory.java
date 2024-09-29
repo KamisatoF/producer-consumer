@@ -1,4 +1,4 @@
-package br.edu.fatecourinhos.demo.concurrent;
+package br.edu.fatecourinhos.thread.concurrent;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;

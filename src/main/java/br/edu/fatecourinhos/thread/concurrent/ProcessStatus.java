@@ -1,4 +1,4 @@
-package br.edu.fatecourinhos.demo.concurrent;
+package br.edu.fatecourinhos.thread.concurrent;
 
 public enum ProcessStatus {
     READY, RUNNING, ERROR, SUCCESS

@@ -1,4 +1,4 @@
-package br.edu.fatecourinhos.demo.sample;
+package br.edu.fatecourinhos.thread.sample;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

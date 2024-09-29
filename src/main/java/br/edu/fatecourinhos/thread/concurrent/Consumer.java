@@ -1,4 +1,4 @@
-package br.edu.fatecourinhos.demo.concurrent;
+package br.edu.fatecourinhos.thread.concurrent;
 
 import lombok.Getter;
 import lombok.Setter;
