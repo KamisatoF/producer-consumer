@@ -19,7 +19,7 @@ public class SampleCommand {
     public Integer run(){
         var queue = factory.createQueue(2);
         List<SampleProducer> producers = factory.generateProducerPool(1, SampleProducer.class, queue);
-        List<SampleConsumer> consumers = factory.generateConsumerPool(2, SampleConsumer.class, queue);
+        List<SampleConsumer> consumers = factory.generateConsumerPool(5, SampleConsumer.class, queue);
 
         var runner = new ProducerConsumerRunner(producers, consumers, true);
         return runner.run();
